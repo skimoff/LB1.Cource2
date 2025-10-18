@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB1", "LB1\LB1.csproj", "{74D91C83-E9BB-47C7-ACBF-E62C6B936EE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{74D91C83-E9BB-47C7-ACBF-E62C6B936EE6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{7EC1F736-EC21-4C83-AC02-A33EFC248CED}"
 EndProject
